@@ -1,3 +1,7 @@
+/*Códigos de domínio da ScoutNet
+Criado pelo Time ScoutNet, baseado nos conhecimentos de programação adquiridos
+Fase alpha Front End*/
+
 @import url(//fonts.googleapis.com/css?family=Lato:400|Inconsolata);
 html {
     position: relative;
@@ -92,7 +96,7 @@ footer {
 .img-nav {
     width: 25px;
     height: 25px;
-    margin-top: -3px;
+    margin-top: 0px;
 }
 
 .form-control,
@@ -110,7 +114,7 @@ footer {
 .cover-container {
     height: 300px;
     /*background:#3ca2e0;*/
-    background-image: url(/img/Bg/bg_4.jpg);
+    background-image: url(/img/Bg/bg01.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -124,11 +128,11 @@ footer {
 }
 
 .cover-container a img {
-    margin-top: 20px;
+    margin-top: 30px;
     width: 140px;
     height: 140px;
-    border-radius: 50%;
-    border: 10px solid rgba(255, 255, 255, 0.3);
+    border-radius: 75%;
+    border: 10px solid rgba(255, 255, 255, 0.1);
 }
 
 .profile-name {
