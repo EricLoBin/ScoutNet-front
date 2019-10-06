@@ -28,8 +28,8 @@ footer {
 
 /* ====================== top navbar =============*/
 .navbar-principal {
-    background-color: #3ca2e0;
-    border-color:#3ca2e0;
+    background-color: #20724a;
+    border-color:#20724a;
     box-shadow: 0 2px 2px -2p xrgba(0, 0, 0, .52);
 }
 
@@ -105,7 +105,11 @@ footer {
 /*============== profile image and name ===============================*/
 .cover-container{
   height:300px;
-  background:#3ca2e0;
+  /*background:#3ca2e0;*/
+  background-image: url(/img/Bg/back.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
   margin-top:53px;
 }
 
@@ -1091,7 +1095,7 @@ div.about-tab div.about-tab-content:not(.active){
     height: 95%;
     width: 210px;
     text-align: right;
-    background-color: rgb(255, 255, 255);
+    background-color: #278c5b;
     box-shadow: -3px 0px 3px 0px rgba(160, 160, 160, 0.30);
     z-index: 999;    
     overflow-y: auto;
@@ -1156,8 +1160,8 @@ div.about-tab div.about-tab-content:not(.active){
 
 .chat-sidebar .chat-title {
   font-size: 16px;
-  color:#A9A9A9;
-  margin-bottom: 10px;
+  color:#ffffff;
+  margin-bottom: 20px;
 }
 /*======== Profile page ================================*/
 
@@ -1167,7 +1171,7 @@ div.about-tab div.about-tab-content:not(.active){
 
 .profile-nav .user-heading {
     background: #3ca2e0;
-    color: #fff;
+    color: #e2e2e2;
     border-radius: 4px 4px 0 0;
     -webkit-border-radius: 4px 4px 0 0;
     padding: 30px;
