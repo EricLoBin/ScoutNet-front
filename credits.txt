@@ -1,4 +1,4 @@
-**Credits:**
+**Créditos/ Referências:**
 
 - Bootstrap  - http://getbootstrap.com
 - jQuery     - http://jquery.com
